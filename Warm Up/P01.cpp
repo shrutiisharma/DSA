@@ -1,4 +1,4 @@
-//Program to print name of the day of week using switch case.
+//Program to print weekdays' name using switch case.
 
 #include <bits/stdc++.h>
 using namespace std;
