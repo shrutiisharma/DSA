@@ -1,4 +1,4 @@
-//Program to print total number of days in a month using switch case.
+// Program to print total number of days in a month using switch case.
 
 #include<bits/stdc++.h>
 using namespace std;
