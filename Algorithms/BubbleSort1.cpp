@@ -28,10 +28,9 @@ int main()
 
 void Bubble_sort(int arr[], int m)
 {
-     for(int p=0;p<m;p++)
+   for(int p=0;p<m;p++)
    {
-
-       for (int j=0;j<m-p-1;j++)
+        for (int j=0;j<m-p-1;j++)
        {
            if(arr[j]>arr[j+1])
            {
