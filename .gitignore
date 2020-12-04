@@ -31,6 +31,12 @@
 *.out
 *.app
 
-# Github Files
-*.gitignore
-*.gitattributes
+# .txt files
+Geeks for Geeks/input.txt
+Warm Up/output.txt
+Warm Up/input.txt
+HackerRank/output.txt
+HackerRank/input.txt
+Geeks for Geeks/output.txt
+
+.gitignore
