@@ -12,7 +12,7 @@ int main()
     cin >> n;
     if(n == 1) 
     {
-        cout << "Composite";
+        cout << "Unique";
         return 0;
     }
     if((n == 2) || (n == 3))  
