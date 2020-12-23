@@ -13,6 +13,7 @@ int power(int n, int p)
     temp = temp * temp;
     if (p % 2 == 0)        return temp;
     if (p % 2 != 0)        return n * temp;
+    return 0;
 }
 int main()
 {
